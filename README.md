@@ -1,4 +1,4 @@
-# US_Energy_Utility_Rates
+# US Energy Utility Rates
 Access the Streamlit app to visualize US energy utility rates: [here](https://jherrick1-us-energy-utility-rates-main-n1g8y9.streamlit.app/)
 
 (NOTE: the app might take a second to 'wake up' if it has been a while since it has been accessed)
