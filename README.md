@@ -17,3 +17,11 @@ The original data has also been included in data folder.
 The original data was in xls format and utilized subheaders that--while beneficial in a business setting--was not ideal for visualization. To fix this issue, I utilized Excel's built in power query tool to unpivot and reorganize columns. I applied this process to each of the tabs in the original xls which produced the individual csv files in the data folder.
 ### App Design
 After the data was cleaned and ready for use, I started with identifying which columns could be utilized for graph inputs. These were: state, year, sector, provider, count type. Based on those, I added the appropriate UI widgets to the app so the user could adjust a line graph and the contents it displays.
+
+The first three (state, year, sector) are included on a sidebar which adjust the line graph parameters, while the other two (provider, count type) allows the user to select the contents of the graph.
+### Widget Options
+- State:
+- Year:
+- Sector:
+- Provider:
+- Count Type: 
