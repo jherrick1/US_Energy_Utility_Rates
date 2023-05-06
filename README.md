@@ -16,8 +16,8 @@ After the data was cleaned and ready for use, I started with identifying which c
 
 The first three (state, year, sector) are included on a sidebar which adjust the line graph parameters, while the other two (provider, count type) allows the user to select the contents of the graph.
 ### Widget Options
-- State: Every state in the US, including a 'US' option that is a total of all states (some providers have less state options)
-- Year: 2010-2021 opton range
-- Sector: Total, Residential, Commercial, Industrial, Transportation 
-- Provider: Total Electric Industry, Delivery Only Providers, Energy Only Providers, Full-Service Providers, Competitive Service Providers
-- Count Type: Revenues (thousand $$), Sales (megawatthours), Customers (count), Price (cents/kWh)
+- **State:** Every state in the US, including a 'US' option that is a total of all states (some providers have less state options)
+- **Year:** 2010-2021 opton range
+- **Sector:** Total, Residential, Commercial, Industrial, Transportation 
+- **Provider:** Total Electric Industry, Delivery Only Providers, Energy Only Providers, Full-Service Providers, Competitive Service Providers
+- **Count Type:** Revenues (thousand $$), Sales (megawatthours), Customers (count), Price (cents/kWh)
